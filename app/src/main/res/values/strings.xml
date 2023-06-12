@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="search_your_notes">Search your notes...</string>
+    <string name="add_note">Add note</string>
+    <string name="add_a_note">Add a note</string>
+    <string name="edit_your_note">Edit your note</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="remove">Remove</string>
+    <string name="title_required">Title is required</string>
+    <string name="created_at">Created at</string>
+    <string name="edited_at">Edited at</string>
+    <string name="note_added">Note is added</string>
+    <string name="note_edited">Note is edited</string>
+    <string name="note_deleted">Note is removed</string>
+    <string name="add_your_note_below">Add your note below</string>
+</resources>
